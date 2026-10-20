@@ -1,0 +1,5 @@
+Pillow>=11.0
+pytesseract>=0.3.13
+faster-whisper>=1.1
+av>=11,<16
+sounddevice>=0.5

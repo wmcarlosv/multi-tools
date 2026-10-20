@@ -1,0 +1,10 @@
+.venv/
+.vendor/
+.cache/
+__pycache__/
+*.pyc
+.build/
+dist/
+release/
+core
+core.*
